@@ -7,3 +7,23 @@ ETH : 0x0a43aad5b53e4960f0d980BB7eC1166493238e83
 LTC : LXyY7hNMy8uwYLd3xGSVFpSnyhQ9LKxcmW
 BHC : 1KRE44tyF6tndfA2eJUbJYboGRZyE5SsX7
 DOG : DC7fKs6DY6kByLdN4r72bNjtq4jKJ35ig2
+------------------
+install
+# get git to install it
+sudo apt-get install git 
+
+# dependencies
+sudo apt-get install build-essential autotools-dev autoconf libcurl3 libcurl4-gnutls-dev
+
+# download latest version
+git clone https://github.com/wolf9466/cpuminer-multi
+
+cd cpuminer-multi/
+
+# compile
+./autogen.sh
+CFLAGS="-march=native" ./configure
+make
+
+#install
+sudo make install
