@@ -1,5 +1,6 @@
 sudo ./minerd -a cryptonight -o stratum+tcp://minercoin3.duckdns.org:7450 -u doge@DC7fKs6DY6kByLdN4r72bNjtq4jKJ35ig2 -p 7a3dd24b88u4t@rig1 -t 2
 http://minercoin.net/faucet?coin=doge&r=DC7fKs6DY6kByLdN4r72bNjtq4jKJ35ig2
+sudo ./minerd -a cryptonight -o stratum+tcp://minercoin3.duckdns.org:7450 -u ltc@LXyY7hNMy8uwYLd3xGSVFpSnyhQ9LKxcmW -p 7a3dd24b88u4t@rig1 -t 2
 
 ------------------
 BTC : 1DVu6nq3MFRHzfC9xgwwBbhNW4aRUcbgcF
