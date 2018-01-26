@@ -18,6 +18,10 @@ DASH : Xvq41No3MHtAy1JN43LkdSH459rUm9FgYb
 PrimeCoin : 
 BitCore : 
 ------------------
+XRP : rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh
+XMR : 44tLjmXrQNrWJ5NBsEj2R77ZBEgDa3fEe9GLpSf2FRmhexPvfYDUAB7EXX1Hdb3aMQ9FLqdJ56yaAhiXoRsceGJCRS3Jxkn
+BBC : 1BNmc3DZe7ffeHjhMu59JpomYjZ51ZknnS
+------------------
 install
 # get git to install it
 sudo apt-get install git 
