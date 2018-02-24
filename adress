@@ -1,6 +1,7 @@
 PAYER : P89393670
 -------------------
 BNB : 0xf9dd6079ff4b25bc5c692c5dd4889d4d127eb4bd
+0x82c072bc3316292ae170219f9a449d074fd4a081
 https://docs.google.com/forms/d/e/1FAIpQLScAPoPzobnaPw0li6CaF0AnIhivKA8wKeci4-TJEl2ub0VW1g/viewform
 ===============
 sudo ./minerd -a cryptonight -o stratum+tcp://minercoin3.duckdns.org:7450 -u doge@DC7fKs6DY6kByLdN4r72bNjtq4jKJ35ig2 -p 7a3dd24b88u4t@rig1 -t 2
