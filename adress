@@ -1,5 +1,7 @@
 PAYER : P89393670
-
+-------------------
+BNB : 
+https://docs.google.com/forms/d/e/1FAIpQLScAPoPzobnaPw0li6CaF0AnIhivKA8wKeci4-TJEl2ub0VW1g/viewform
 ===============
 sudo ./minerd -a cryptonight -o stratum+tcp://minercoin3.duckdns.org:7450 -u doge@DC7fKs6DY6kByLdN4r72bNjtq4jKJ35ig2 -p 7a3dd24b88u4t@rig1 -t 2
 http://minercoin.net/faucet?coin=doge&r=DC7fKs6DY6kByLdN4r72bNjtq4jKJ35ig2
